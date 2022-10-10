@@ -1,0 +1,4 @@
+.idea/
+.env/
+src/playground_project/settings.py
+test.py 
